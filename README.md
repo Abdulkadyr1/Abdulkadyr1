@@ -13,4 +13,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulkadyr1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Abdulkadyr1&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
+
+[![LeetCode stats]([https://leetcode-stats-six.vercel.app/api?username=Abdulkadyr1](https://leetcode.com/u/Ridak_11&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
