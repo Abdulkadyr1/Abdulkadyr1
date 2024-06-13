@@ -3,7 +3,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulkadyr1&layout=compact&text_color=ffffff&card_width=1000&theme=dark&bg_color=000000&hide_border=true)](https://github.com/Abdulkadyr1)
 
 ### Languages and Tools
-![ANDROID](https://img.shields.io/badge/-Android-000000?style=for-the-badge&logo=Android)
+![GOLAND](https://img.shields.io/badge/-Android-000000?style=for-the-badge&logo=Go)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-000000?style=for-the-badge&logo=Kotlin)
 ![Java](https://img.shields.io/badge/-Java-000000?style=for-the-badge&logo=Java)
 ![Firebase](https://img.shields.io/badge/-Firebase-000000?style=for-the-badge&logo=Firebase)
