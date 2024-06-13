@@ -1,6 +1,6 @@
 # Hi, i'm an Go developer and Shool21 student
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ibaevzz&layout=compact&text_color=ffffff&card_width=1000&theme=dark&bg_color=000000&hide_border=true)](https://github.com/Abdulkadyr1)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulkadyr1&layout=compact&text_color=ffffff&card_width=1000&theme=dark&bg_color=000000&hide_border=true)](https://github.com/Abdulkadyr1)
 
 ### Languages and Tools
 ![ANDROID](https://img.shields.io/badge/-Android-000000?style=for-the-badge&logo=Android)
