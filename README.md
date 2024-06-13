@@ -9,7 +9,6 @@
 ![Postgres](https://img.shields.io/badge/-postgresql-000000?style=for-the-badge&logo=postgresql)
 
 ### Follow Me
-[![Github](https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=GitHub)](https://github.com/ibaevzz)
-[![Telegram](https://img.shields.io/badge/-Telegram-000000?style=for-the-badge&logo=Telegram)](https://t.me/ibaevzz)
-[![VK](https://img.shields.io/badge/-VK-000000?style=for-the-badge&logo=VK)](https://vk.com/ibaevzz)
-[![instagram](https://img.shields.io/badge/-instagram-000000?style=for-the-badge&logo=instagram)](https://www.instagram.com/ibaevzz)
+[![Github](https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=GitHub)](https://github.com/Abdulkadyr1)
+[![Telegram](https://img.shields.io/badge/-Telegram-000000?style=for-the-badge&logo=Telegram)](https://t.me/Ridak_11)
+[![VK](https://img.shields.io/badge/-VK-000000?style=for-the-badge&logo=VK)](https://vk.com/ridak_11)
