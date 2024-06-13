@@ -4,8 +4,8 @@
 
 ### Languages and Tools
 ![GOLAND](https://img.shields.io/badge/-Go-000000?style=for-the-badge&logo=Go)
-![Kotlin](https://img.shields.io/badge/-Kotlin-000000?style=for-the-badge&logo=Kotlin)
-![Java](https://img.shields.io/badge/-Java-000000?style=for-the-badge&logo=Java)
+![Ubuntu](https://img.shields.io/badge/-ubuntu-000000?style=for-the-badge&logo=ubuntu)
+![Docker](https://img.shields.io/badge/-docker-000000?style=for-the-badge&logo=docker)
 ![Postgres](https://img.shields.io/badge/-postgresql-000000?style=for-the-badge&logo=postgresql)
 
 ### Follow Me
