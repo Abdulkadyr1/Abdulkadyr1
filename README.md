@@ -1,21 +1,15 @@
-<h1 align="center">Hi there, I'm Abdulkadyr 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">I'm School21 and MIREA student.</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="альтернативный текст"> 
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="альтернативный текст">
-  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="альтернативный текст">
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="альтернативный текст">
-  <img src="https://img.shields.io/badge/GoLand-0f0f0f?&style=for-the-badge&logo=goland&logoColor=white" alt="альтернативный текст">
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="альтернативный текст">
-</div>
-</br>
-<div align="center">
+# Hi, i'm an Go developer and Shool21 student
 
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Abdulkadyr1)](https://git.io/streak-stats)
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulkadyr1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-  
-  [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Ridak_11)](https://github.com/KnlnKS/leetcode-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ibaevzz&layout=compact&text_color=ffffff&card_width=1000&theme=dark&bg_color=000000&hide_border=true)](https://github.com/Abdulkadyr1)
 
-</div>
+### Languages and Tools
+![ANDROID](https://img.shields.io/badge/-Android-000000?style=for-the-badge&logo=Android)
+![Kotlin](https://img.shields.io/badge/-Kotlin-000000?style=for-the-badge&logo=Kotlin)
+![Java](https://img.shields.io/badge/-Java-000000?style=for-the-badge&logo=Java)
+![Firebase](https://img.shields.io/badge/-Firebase-000000?style=for-the-badge&logo=Firebase)
+
+### Follow Me
+[![Github](https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=GitHub)](https://github.com/ibaevzz)
+[![Telegram](https://img.shields.io/badge/-Telegram-000000?style=for-the-badge&logo=Telegram)](https://t.me/ibaevzz)
+[![VK](https://img.shields.io/badge/-VK-000000?style=for-the-badge&logo=VK)](https://vk.com/ibaevzz)
+[![instagram](https://img.shields.io/badge/-instagram-000000?style=for-the-badge&logo=instagram)](https://www.instagram.com/ibaevzz)
