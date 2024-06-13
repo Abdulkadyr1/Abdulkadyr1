@@ -8,3 +8,9 @@
   <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="альтернативный текст">
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="альтернативный текст">
 </div>
+
+<style>
+  img {
+    pointer-events: none;
+  }
+</style>
