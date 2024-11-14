@@ -1,4 +1,4 @@
-# Hi, i'm an Go developer and School21 student
+# Hi, i'm an Go developer
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulkadyr1&layout=compact&text_color=ffffff&card_width=1000&theme=dark&bg_color=000000&hide_border=true)](https://github.com/Abdulkadyr1)
 
