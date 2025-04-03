@@ -1,4 +1,4 @@
-# Hi, i'm an Go developer
+# Hi, i'm an Web developer
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulkadyr1&layout=compact&text_color=ffffff&card_width=1000&theme=dark&bg_color=000000&hide_border=true)](https://github.com/Abdulkadyr1)
 
