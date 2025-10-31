@@ -5,7 +5,7 @@
 ![Docker](https://img.shields.io/badge/-docker-000000?style=for-the-badge&logo=docker)
 ![Postgres](https://img.shields.io/badge/-postgresql-000000?style=for-the-badge&logo=postgresql)
 ![Swift](https://img.shields.io/badge/-ubuntu-000000?style=for-the-badge&logo=swift)
-![UIKit](https://img.shields.io/badge/-ubuntu-000000?style=for-the-badge&logo=UIKit)
+![UIKit](https://img.shields.io/badge/-ubuntu-000000?style=for-the-badge&logo=uikit)
 
 ### Follow Me
 [![Github](https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=GitHub)](https://github.com/Abdulkadyr1)
