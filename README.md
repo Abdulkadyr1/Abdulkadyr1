@@ -1,10 +1,10 @@
 # Hi
 
 ### Languages and Tools
-![Swift](https://img.shields.io/badge/-ubuntu-000000?style=for-the-badge&logo=swift)
+![Swift](https://img.shields.io/badge/-swift-000000?style=for-the-badge&logo=swift)
 ![Docker](https://img.shields.io/badge/-docker-000000?style=for-the-badge&logo=docker)
 ![Postgres](https://img.shields.io/badge/-postgresql-000000?style=for-the-badge&logo=postgresql)
-![UIKit](https://img.shields.io/badge/-ubuntu-000000?style=for-the-badge&logo=uikit)
+![UIKit](https://img.shields.io/badge/-uikit-000000?style=for-the-badge&logo=uikit)
 
 ### Follow Me
 [![Github](https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=GitHub)](https://github.com/Abdulkadyr1)
